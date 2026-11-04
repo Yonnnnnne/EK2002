@@ -55,7 +55,7 @@ notebook 自上而下分为四块，依次对应论文的各个部分：
 | Table I | `### Table I` | 13 / In [10] | 各国进口、工资、劳动力、制造业占 GDP 比重等描述统计 |
 | Figure I | `### Figure I` | 20 / In [15] | 标准化进口份额与距离 |
 | Table II | `### Table II` | 26 / In [19] | 价格度量及其与标准化进口份额的关系 |
-| Figure II | `### Figure II` | 28 / In [20] | 价格度量散点图 |
+| Figure II | `### Figure II` | 28 / In [20] | 横轴为价格度量 `Dni`、纵轴为标准化进口份额对数的散点图 |
 | Table III | `#### Table III` | 45 / In [27] | GLS 回归结果；基准 OLS 输出在 38 / In [25]，未单独编号 |
 | Table IV | `#### Table IV` | 48 / In [29] | 研发存量、教育、劳动力、密度的描述统计 |
 | Table V | `#### Table V` | 52 / In [31]、55 / In [34] | 工资数据的 OLS 与 IV 估计；价格数据的对照估计在 58 / In [36]、59 / In [37]，未单独编号 |
